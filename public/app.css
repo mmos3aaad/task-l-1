@@ -1,0 +1,21 @@
+.c-1{padding: 30px 0px;}
+.navbar-brand{margin-right: 45%;}
+.nav-link{color: #677788;}
+.nav-item{font-size: 18px;}
+.btn1{padding: 5px 15px;}
+
+.r1{height: 400px; margin-top: 100px;}
+.r1 h1{font-size: 72px; color: black; font-weight: 700;} .r1 h1 span {color: #377dff;}
+.r1 p {color: #677788; font-size: 26px;}
+.r1 button{font-size: 22px;} .r1 a {font-size: 18px; color: #377dff; margin-left: 50px;}
+.r1-2{background-image: url("./images/img2.jpg"); border-radius: 4px;background-size: cover;}
+
+.d-2 {margin-top: 200px;}
+.d-2 h2 {color: black; text-align: center;font-weight: 700; }
+.learn{text-align: center; color: #677788; font-size: 18px; margin-bottom: 70px; margin-top: 50px;}
+.bi-check-lg {color: #377dff; font-size: 25px; padding: 5px;}
+.card {border: 0px hidden white;}
+.card-title {font-weight: 700; font-size: 30px;}
+.card-body label {color: #677788; margin-bottom: 25px;height: 50px;}
+.card-text {color: #677788; margin-bottom: 15px;line-height: 1.5; font-size: 18px;}
+.card-body a {color: #677788; font-size: 18px; font-weight: 700; text-decoration: none;}
